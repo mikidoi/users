@@ -30,3 +30,14 @@ create db.json
 ```
 npm install --save axios
 ```
+
+## Nodemon will keep server always running
+
+```
+npm install --save nodemon
+```
+
+##
+
+How to push project when we have 2 way authentication enabled.
+https://gist.github.com/adamjohnson/5682757
